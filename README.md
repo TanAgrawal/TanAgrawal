@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail: tanagrawal27@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Ask me anything about Cars,F1
+- ⚡ Fun fact: Ask me anything about Cars and F1
 
 <!---
 TanAgrawal/TanAgrawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
