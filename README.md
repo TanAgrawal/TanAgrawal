@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TanAgrawal
 - 👀 I’m interested in Web dev, Coding 
 - 🌱 I’m currently learning Full stacks Web development
-- 📫 How to reach me gmail: tanagrawal27@gmail.com
+- 📫 How to reach me gmail: tanmayagrwl27@gmail.com
 - ⚡ Fun fact: Ask me anything about Cars and F1
 
 <!---
