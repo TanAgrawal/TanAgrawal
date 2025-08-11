@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TanAgrawal
-- 👀 I’m interested in Web dev, Coding 
-- 🌱 I’m currently learning Full stacks Web development
+- 👀 I’m interested in ML, AI, Data Analysis, Coding 
+- 🌱 I’m currently learning Machine Learning 
 - 📫 How to reach me gmail: tanmayagrwl27@gmail.com
-- ⚡ Fun fact: Ask me anything about Cars and F1
 
 <!---
 TanAgrawal/TanAgrawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
